@@ -1,16 +1,18 @@
 - Hi, I’m @VileBile
 - I’m interested in: 
-      - Computational Neuroscience, mostly computational properties of single neurons and small scale networks.
+     - Computational Neuroscience, mostly computational properties of single neurons and small scale networks.
       
-      - Developmental Psychology and Neuroscience from a constructivist and dynamical systems perspective.
+     - Developmental Psychology and Neuroscience from a constructivist and dynamical systems perspective.
      
      - Machine learning mostly for modeling animal learning and development, though modern ML methods are fascinating in their own right.
      
      - Theories of human drive and motivation, currently I am fascinated by Jaques Lacans attempt to formalise Freudian theory.
      
      - I find mathematical modeling in general a fun and verry reassuring approach to understanding systems.
+
 - I’m currently learning ...
-      - Computational Neuroscience using:
+      
+     - Computational Neuroscience using:
           - Abbot & Dayan, Theoretical Neuroscince. https://mitpress.mit.edu/books/theoretical-neuroscience
           - Izhikevich, Dynamical Systems in Neuroscience. https://mitpress.mit.edu/books/dynamical-systems-neuroscience 
           - Koch, Biophysics of Computation. https://oxford.universitypressscholarship.com/view/10.1093/oso/9780195104912.001.0001/isbn-9780195104912
