@@ -23,7 +23,7 @@
                and the associated book: Elementary Differential Eqs. with Boundary Value Problems: https://www.pearson.com/us/higher-education/product/Edwards-Elementary-Differential-Equations-with-Boundary-Value-Problems-6th-Edition/9780136006138.html
 
 - I write in:
-    - Python is where I first learned to program and I still love it for putting together quick projects.
+    - Python is where I first learned to program.
     
     - Julia I learned after becoming annoyed by Python for not having linear algebra in base and have since fallen in love with the syntax as well as the community around it.
     
