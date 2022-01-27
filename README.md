@@ -25,9 +25,9 @@
 - I write in:
     - Python is where I first learned to program.
     
-    - Julia I learned after becoming annoyed by Python for not having linear algebra in base and have since fallen in love with the syntax as well as the community around it.
+    - Julia I learned because I heard it had nice syntax and was fast. I enjoy that it has linear algebra built in.
     
-    - Matlab I find to be usefull for setting up models of physical systems.
+    - I know verry basic Matlab.
     
 - I keep a personal blog at: https://medium.com/@markovinkl where I write about anything and everything that happens to peak my interest
 
