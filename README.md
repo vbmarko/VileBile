@@ -27,7 +27,7 @@
     
     - Julia I learned because I heard it had nice syntax and was fast. I enjoy that it has linear algebra built in.
     
-    - I know verry basic Matlab.
+    - I know Matlab and am using it to do EEG signal processing.
     
 - I keep a personal blog at: https://medium.com/@markovinkl where I write about anything and everything that happens to peak my interest
 
