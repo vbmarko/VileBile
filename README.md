@@ -1,6 +1,6 @@
 - Hi, I’m @VileBile
 - I’m interested in: 
-     - Computational Neuroscience, mostly computational properties of single neurons and small scale networks.
+     - Computational Neuroscience, mostly computational properties of single neurons and small scale networks (sometims called cannonical microcicuits).
       
      - Developmental Psychology and Neuroscience from a constructivist and dynamical systems perspective.
      
